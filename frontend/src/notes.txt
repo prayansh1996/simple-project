@@ -1,0 +1,4 @@
+You need to put any JS and CSS files inside src, otherwise webpack won’t see them.
+
+Manifest.json https://web.dev/add-manifest/
+
