@@ -2,3 +2,5 @@ You need to put any JS and CSS files inside src, otherwise webpack won’t see t
 
 Manifest.json https://web.dev/add-manifest/
 
+localhost run can access 8080 of container without exposing port
+
